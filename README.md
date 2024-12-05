@@ -3,7 +3,7 @@
 -  Pronouns: she/her.
 -  How to reach me: eveliinahampus(at)gmail.com.
 ---
--  Tech stack: Python and SQL. I might occasionally dabble with *Kotlin*, *Java*, Javascript/Typescript, *bash scripting*, or C.   
+-  Tech stack: Python and SQL. I might occasionally dabble with *Kotlin*, *Java*, Javascript/Typescript, or *bash scripting*.  
 -  I 💚: Data Science & Data Engineering. 
 ---
 **Currently**:
