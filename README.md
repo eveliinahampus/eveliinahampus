@@ -13,6 +13,6 @@
 -  I’m looking to collaborate on small projects relating to Data Science and Engineering.
 ---
 **In 2025 I plan to**:
--  Take part in *WiDS Datathon*. 
+-  Take part in [WiDS Datathon](https://www.widsworldwide.org/get-inspired/blog/8th-annual-wids-datathon-challenges-unraveling-the-mysteries-of-the-female-brain/). 
 -  Find interships, and finish my degree. 
--  Get certified with *AWS Data Engineer Associate*.
+-  Get certified with [AWS Data Engineer Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/).
