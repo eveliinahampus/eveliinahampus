@@ -7,7 +7,7 @@
 -  I 💚: Data Science & Data Engineering. 
 ---
 **Currently**:
--  I'm participating actively on *DataTribe*, which community for data professionals, ethusiasts and students. 
+-  I'm participating actively on *DataTribe*, which is a community for data professionals, ethusiasts and students. 
 -  I’m **trying to find time to** work on *#FigureFriday* data visualizations with *Plotly* and Dash. 
 -  I’m learning basics of Data Engineering, and building my *Python* and *SQL* skills stronger. 
 -  I’m looking to collaborate on small projects relating to Data Science and Engineering.
